@@ -1,0 +1,8 @@
+/build
+/captures
+.externalNativeBuild
+/Debug
+/Release
+/ffplay3.3/Debug
+/ffplay3.3/x64
+*.mp4
